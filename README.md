@@ -1,2 +1,3 @@
 # resumo-do-lab
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
+Durante o lab, aprendi os conceitos básicos de computação em nuvem com foco na plataforma Microsoft Azure. Entendi a diferença entre os modelos de serviço (IaaS, PaaS e SaaS) e como eles se aplicam em diferentes cenários. Também explorei os principais serviços do Azure, como máquinas virtuais, armazenamento de blobs e bancos de dados. Além disso, aprendi a navegar pelo portal do Azure, criar e gerenciar recursos, e a importância de práticas como escalabilidade, alta disponibilidade e segurança na nuvem. Foi uma experiência prática muito rica que reforçou meu entendimento sobre como o Azure pode ser usado para construir soluções modernas e eficientes.
